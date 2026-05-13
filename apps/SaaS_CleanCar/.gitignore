@@ -1,0 +1,3 @@
+# Ignorar diretórios específicos de agentes ou ferramentas de IA
+.agent/
+.agent
